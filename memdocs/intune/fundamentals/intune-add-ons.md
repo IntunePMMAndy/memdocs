@@ -53,11 +53,11 @@ The following table provides a list of add-on capabilities and associated Intune
 
 |Capability|Standalone add-on|Intune Plan 2|Intune Suite|
 |:---|:---:|:---:|:---:|
-|Advanced endpoint analytics| | |✔️|
-|Endpoint Privilege Management |✔️| |✔️|
+|Microsoft Intune Advanced Analytics| | |✔️|
+|Microsoft Intune Endpoint Privilege Management |✔️| |✔️|
 |Firmware-over-the-air update| |✔️ |✔️ |
 |Microsoft Tunnel for Mobile Application Management| |✔️|✔️|
-|Remote help|✔️| |✔️|
+|Microsoft Intune Remote Help|✔️| |✔️|
 |Specialized devices management| |✔️|✔️|
 
 <!-- original sequence >
@@ -67,7 +67,7 @@ The following table provides a list of add-on capabilities and associated Intune
 |Advanced endpoint analytics| | |✔️|
 -->
 
-### Advanced endpoint analytics
+### Advanced Analytics
 
 Microsoft Intune advanced Endpoint analytics is set of analytics-driven capabilities that help IT admins understand, anticipate, and improve the end-user experience.
 
