@@ -1,22 +1,22 @@
 ### YamlMime:Hub
-title: Endpoint management documentation
-summary: Learn more about how Microsoft Intune and Microsoft Configuration Manager can help you secure, deploy, and manage users, apps, and endpoint devices.
+title: Microsoft intune  documentation
+summary: Learn how Microsoft Intune can help you deploy more secure productive endpoints
 
 metadata:
   services: service
   ms.service: microsoft-intune
   ms.topic: hub-page
-  author: dougeby
+  author: v-anrostad
   ms.author: dougeby
   manager: dansimp
-  ms.date: 01/09/2024
+  ms.date: 02/13/2024
   ms.localizationpriority: high
   ms.collection: 
   ms.custom: intro-hub-or-landing
 
-highlightedContent:
+/*highlightedContent:
   items:
-    - title: Endpoint management overview
+    - title: Take a tour of intune
       itemType: overview
       url: endpoint-manager-overview.md
     - title: Cloud attach your Configuration Manager environment
@@ -36,7 +36,7 @@ highlightedContent:
       url: https://docs.microsoft.com/search/?terms=intune&category=Learn
     - title: How to use the endpoint management docs
       itemType: overview
-      url: ./use-docs.md
+      url: ./use-docs.md */
 
 # productDirectory section (optional)
 productDirectory:
